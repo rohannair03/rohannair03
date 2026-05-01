@@ -1,6 +1,6 @@
-## Hi, I'm Rohan 👋
+## Hi, I'm Rohan!
 
-QA / SDET · Vancouver, BC · MDA Space
+QA Engineer / SDET · Vancouver, BC · MDA Space
 
 7+ years in aerospace and defence software QA — from verifying Canadarm2 flight software to building deep learning pipelines for dark vessel detection. I care about rigorous testing, clean automation, and making quality engineering visible.
 
@@ -25,4 +25,4 @@ AI-powered interactive story engine built with React, Vite, and the Claude API. 
 
 ---
 
-BSc Physics, Simon Fraser University · Open to QA/SDET & Systems Engineering roles in Vancouver
+BSc Physics, Simon Fraser University · Open to QA Engineer/SDET & Systems Engineering roles in Vancouver, BC!
